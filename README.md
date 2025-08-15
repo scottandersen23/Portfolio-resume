@@ -2,7 +2,7 @@
 
  *Senior Business Intelligence Developer | Network Engineer | Data Solutions Architect*
 
-[scottandersen23@gmail.com] • \[LinkedIn] • \[GitHub]
+[scottandersen23@gmail.com] • \[[LinkedIn](https://www.linkedin.com/in/scott-andersen-3208897b/)] • \[[GitHub](https://github.com/scottandersen23)]
 
 ---
 
