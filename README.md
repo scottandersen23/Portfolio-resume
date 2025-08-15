@@ -1,4 +1,4 @@
-## **Scott Ryan Andersen**
+## **Scott Andersen**
 
  *Senior Business Intelligence Developer | Network Engineer | Data Solutions Architect*
 
