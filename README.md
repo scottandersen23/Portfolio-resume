@@ -12,7 +12,7 @@
 **Jan 2023 – Present**
 
 - Led modernization of enterprise reporting platforms by optimizing Snowflake and SQL-based stored procedures, incorporating exception handling and data integrity safeguards, reducing support hours and improving operational efficiency across multiple large-scale loyalty programs.
-- Architected and delivered high-impact business intelligence solutions using SSRS, Power BI, and OLAP models to track KPIs, transaction trends, and account-level activity, empowering executives with actionable insights.
+- Architected and delivered high-impact business intelligence solutions using Snowflake, Power BI, and OLAP models to track KPIs, transaction trends, and account-level activity, empowering executives with actionable insights.
 - Streamlined data workflows and query performance through advanced tuning of complex SQL and Snowflake queries, achieving significant reductions in report execution times and enabling faster decision-making for enterprise clients and lighter operational warehousing costs.
 - Partnered cross-functionally with data warehouse teams to identify schema enhancements, expand dimensional models, and integrate new data sources, directly enhancing analytical capabilities and client reporting value.
 - Productized analytics through self-service dashboarding and scalable BI frameworks, enabling business stakeholders to explore real-time metrics without dependency on development cycles.
@@ -20,7 +20,7 @@
 **Bug Bite Thing** – *Business Intelligence Engineer*
 **Apr 2021 – Dec 2022**
 
-- Drove strategic growth and operational efficiency by delivering actionable insights and trend analysis to Senior Management.
+- Drove strategic growth and operational efficiency by delivering actionable insights and trend analysis to Executive Management.
 - Optimized financial performance through KPI dashboards, predictive modeling, and comprehensive variance reporting to guide decision-making.
 - Led company-wide data initiatives by designing databases, integrating SQL workflows, and managing BI platforms (Tableau/PowerBI) to improve accuracy and scalability.
 - Directed cross-functional projects with business units, vendors, and project managers to implement data-driven solutions, streamline operations, and enhance customer and product outcomes.
@@ -75,6 +75,10 @@
 - Leveraged RPC API to retrieve, parse, and verify blockchain data for potential integration into financial analytics and decentralized applications.
 - Documented full deployment process following RaspiBolt-style installation standards, enabling reproducible, secure node setup for future scaling.
 
+## **Education**
+
+- Northwestern University  – FinTech Certificate
+- University of Wisconsin-Milwaukee – Bachelor of Arts
 
 ## **Technical Skills**
 
