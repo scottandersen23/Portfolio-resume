@@ -78,7 +78,7 @@
 ## **Education**
 
 - Northwestern University  – FinTech Certificate
-- University of Wisconsin-Milwaukee – Bachelor of Arts
+- University of Wisconsin-Milwaukee – Bachelor of Arts, Communications
 
 ## **Technical Skills**
 
