@@ -14,7 +14,7 @@ My Shopping List:
 5. SD card reader adapter for Mac = $8
 6. Samsung Evo Select SD 128GB = $13
 7. Samsung T7 SSD 2TB External Storage = $140
-Total Cost = $295 
+- Total Cost = $295 
 
 
 Initial Steps to Complete:
