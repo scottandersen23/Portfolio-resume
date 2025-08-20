@@ -38,4 +38,4 @@ As you may know, running the node can take days to complete. At the time of writ
 
 While the bitcoin blockchain runs in the background, working to validate transactions and confirm the full history on the ledger, I began reading about keeping your internet secure with Tor and WiFi traffic privacy.
 
-Going throught this process has created so much excitement around building something real with technology and has motivated me to continue exloring new topics. 
+Going throught this process has created so much excitement around building something with technology and has motivated me to continue exloring new concepts.
