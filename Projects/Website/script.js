@@ -1,8 +1,24 @@
-// Dark / Light Mode Toggle
+// Dark / Light Mode Toggle with Persistence
 const modeToggle = document.getElementById('mode-toggle');
+const currentMode = localStorage.getItem('theme');
+
+// Apply saved theme on page load
+if (currentMode) {
+    document.body.classList.remove('light-mode', 'dark-mode');
+    document.body.classList.add(currentMode);
+}
+
+// Toggle mode on button click
 modeToggle.addEventListener('click', () => {
-    document.body.classList.toggle('dark-mode');
-    document.body.classList.toggle('light-mode');
+    if (document.body.classList.contains('light-mode')) {
+        document.body.classList.remove('light-mode');
+        document.body.classList.add('dark-mode');
+        localStorage.setItem('theme', 'dark-mode');
+    } else {
+        document.body.classList.remove('dark-mode');
+        document.body.classList.add('light-mode');
+        localStorage.setItem('theme', 'light-mode');
+    }
 });
 
 // Example Hover Button Effect
