@@ -168,3 +168,12 @@ footer {
         gap: 1rem;
     }
 }
+/* Active Sidebar Link */
+.active-link {
+    font-weight: bold;
+    color: #0074D9;
+    text-decoration: underline;
+}
+html {
+    scroll-behavior: smooth;
+}
