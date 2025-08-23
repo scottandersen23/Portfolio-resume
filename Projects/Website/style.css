@@ -19,13 +19,13 @@ body {
 }
 
 .dark-mode {
-    background-color: #001f3f;
+    background-color: #1e1d23;
     color: #ffffff;
 }
 
 /* Header */
 header {
-    background-color: #001f3f;
+    background-color: #064585;
     color: white;
     padding: 1rem 2rem;
     display: flex;
@@ -34,6 +34,8 @@ header {
 }
 
 header h1 {
+    text-align: left;
+    width: 100%;
     font-size: 1.8rem;
 }
 
@@ -91,7 +93,7 @@ main {
 /* Sidebar */
 aside {
     flex: 1;
-    background-color: #f0f4f8;
+    background-color: #ebeaea;
     padding: 1rem;
     border-radius: 5px;
 }
@@ -110,7 +112,7 @@ aside {
 
 .sidebar-section a {
     text-decoration: none;
-    color: #001f3f;
+    color: #064585;
     transition: color 0.3s;
 }
 
@@ -122,7 +124,7 @@ aside {
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #001f3f;
+    background-color: #064585;
     color: white;
     margin-top: 2rem;
 }
